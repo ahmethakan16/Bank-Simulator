@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\bin\Debug\BankSimulator.exe.config
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\bin\Debug\BankSimulator.exe
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\bin\Debug\BankSimulator.pdb
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.FrmGiris.resources
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.exe
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.pdb
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.KayıtForm.resources
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.VeriSayfasi.resources
+C:\Users\Lenovo\source\repos\BankSimulator\BankSimulator\obj\Debug\BankSimulator.Hareketler.resources
